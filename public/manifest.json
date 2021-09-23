@@ -1,7 +1,7 @@
 {
     "name": "Budget Tracker",
     "short_name": "$Tracker",
-    "description": "An app that allows you to create a budget by adding or subtracting funds based on a transaction.",
+    "description": "A budgeting application that allows you to add or subtract funds.",
     "background-color": "#01579b",
     "theme-color": "#ffffff",
     "icons": [
