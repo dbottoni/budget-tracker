@@ -16,7 +16,7 @@
             "sizes": "96x96"
         },
         {
-            "src": "/icons/icon-128x128.png",
+            "src": "ges/icons/icon-128x128.png",
             "type": "image/png",
             "sizes": "128x128"
         },
